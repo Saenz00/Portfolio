@@ -1,82 +1,56 @@
 # Felipe de Jesús Ramírez Sáenz
 
-### QA Automation Engineer | Web Testing | API Testing
+### Junior QA Tester | Web & API Testing | Cypress Automation
 
-Welcome to my QA Automation portfolio.
+Computer Systems and Electronics Engineer currently working as a Junior QA Tester on a web-based ERP system.
 
-I am a Software Engineer with experience in web development and software testing. I am currently focused on QA Automation, building reliable and maintainable test solutions for web applications and REST APIs using industry best practices.
-
-This repository showcases my automation projects, API testing, test documentation, bug reports, and continuous learning as I grow as a QA Automation Engineer.
+I have hands-on experience in functional testing, test case design, requirement validation, regression testing, API testing with Postman, SQL data validation, and defect reporting. I am currently expanding my skills in QA Automation and CI/CD.
 
 ---
 
-## Tech Stack
+## Featured Project
 
-**Testing**
-- Cypress
-- Postman
-- JavaScript
-- Node.js
+### [E-Commerce UI Automation](https://github.com/Saenz00/ecommerce-ui-automation)
 
-**Development**
-- HTML5
-- CSS3
-- TypeScript
-- Angular
-- WordPress
+Cypress end-to-end automation project for the SauceDemo e-commerce application.
 
-**Database**
-- SQL
-- SQL Server
-- MySQl Workbench
+[![E2E Tests](https://github.com/Saenz00/ecommerce-ui-automation/actions/workflows/e2e-tests.yml/badge.svg)](https://github.com/Saenz00/ecommerce-ui-automation/actions/workflows/e2e-tests.yml)
+
+- 22 automated tests covering authentication, inventory, cart, checkout, and session management
+- Positive and negative scenarios
+- Test scope, strategy, plan, manual cases, and execution results
+- Reusable fixtures and custom Cypress commands
+- Automated regression testing with GitHub Actions
+- Failure screenshots preserved as CI artifacts
+
+**Tech:** Cypress, JavaScript, Node.js, GitHub Actions
+
+[View project](https://github.com/Saenz00/ecommerce-ui-automation)
 
 ---
 
-## Current Focus
+## Core Skills
 
-- Advanced Cypress
-- API Automation
-- Supertest
-- GitHub Actions (CI/CD)
-- Performance Testing
-- Security Testing Fundamentals (OWASP)
+- **Testing:** Functional, regression, exploratory, test case design, bug reporting
+- **Automation and API:** Cypress, JavaScript, Node.js, Postman
+- **Databases:** SQL, SQL Server, MySQL Workbench
+- **Development:** HTML5, CSS3, TypeScript, Angular, WordPress
+- **Workflow:** Git, GitHub, GitHub Actions, Monday.com, Agile methodologies
+
+---
+
+## Current Learning
+
+- API automation with Supertest
+- CI/CD and automated reporting
+- Performance testing fundamentals
+- Security testing fundamentals and OWASP ZAP
 
 ---
 
 ## Contact
 
-**Email:** rzsaenz2603@gmail.com
-
-**Location:** Tamaulipas, Mexico
-
-**Languages:** Spanish (Native) | English (Professional Working Proficiency)
-
----
-
-## 🚀 Featured Projects
-
-> Projects will be added as they are completed.
-
----
-
-## 🛠 Tech Stack
-
----
-
-##  Certifications
-
-> Coming soon...
-
----
-
-##  Current Learning Roadmap
-
----
-
-##  Resume
-
-> Coming soon...
-
----
-
-## 📫 Contact
+- **Email:** [jes.saenz2603@gmail.com](mailto:jes.saenz2603@gmail.com)
+- **GitHub:** [Saenz00](https://github.com/Saenz00)
+- **Location:** Tamaulipas, Mexico
+- **Languages:** Spanish (Native) · English (B2)
